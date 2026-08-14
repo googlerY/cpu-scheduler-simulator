@@ -1,0 +1,20 @@
+# 1. C 언어 빌드 결과물 (바이너리 및 목적 파일)
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# 명시적인 실행 파일 이름 (Makefile에 지정한 이름)
+scheduler_realtime.out
+
+# 2. macOS 시스템 생성 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 3. 에디터 및 IDE 설정 파일
+.vscode/
+*.swp
+*~
