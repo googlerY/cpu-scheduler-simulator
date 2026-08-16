@@ -8,7 +8,6 @@
 
 # 명시적인 실행 파일 이름 (Makefile에 지정한 이름)
 scheduler_realtime.out
-scheduler_mixed.out
 
 # 2. macOS 시스템 생성 파일
 .DS_Store
